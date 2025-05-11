@@ -1,38 +1,46 @@
-# 👩‍💻 Revathy Santhanam
-**Frontend Engineer**
-**Full Stack Developer**
-**Software Engineer**
+# 👩‍💻 Revathy Santhanam  
+- **Frontend Engineer**  
+- **Full Stack Developer**  
+- **Software Engineer**
 
 ---
 
 ## 🚀 Projects
 
-#### 🛍️ Ecommerce
-[Globus](https://globus.is/)
-[A4](https://a4.is/)
-[TL](https://tl.is/)
-[Rafland](https://rafland.is/)  
-[Ibudin](https://ibudin.is/)
-[Kunigund](https://kunigund.is/)
-[Bestseller](https://bestseller.is/)  
-[HT](https://ht.is/)
-[Utilif](https://utilif.is/)
-[Asbjorn](https://asbjorn.is/)
-[Byggtogbuid](https://byggtogbuid.is/)
+### 🛍️ Ecommerce Websites
+Built high-performance eCommerce storefronts using Next.js, Magento, GraphQL, and CMS integrations.
 
-
-#### 💳 Payment Links
-[Payment Link Demo](https://dev.clink.is/admin/theme)  
-
-
-#### 🧩 Desgin System
-[Primitives Preview](https://primitives-preview.labs.roanuz.com/)  
-[Teroshop Primitives](https://ts-primitives.tero.roanuz.com/)  
-[Teroshop Web Client Demo](https://ts-demo.tero.roanuz.com/product/e4bee85b-8586-ef11-ac23-000d3adddf54)
+- [Globus](https://globus.is/)
+- [A4](https://a4.is/)
+- [TL](https://tl.is/)
+- [Rafland](https://rafland.is/)
+- [Ibudin](https://ibudin.is/)
+- [Kunigund](https://kunigund.is/)
+- [Bestseller](https://bestseller.is/)
+- [HT](https://ht.is/)
+- [Utilif](https://utilif.is/)
+- [Asbjorn](https://asbjorn.is/)
+- [Byggtogbuid](https://byggtogbuid.is/)
 
 ---
 
-### 🛠️ Tech Stack
+### 💳 Payment Link Application
+Created a lightweight, configurable payment link solution with Verifone, SiminnPay, and Netgiro integration.
+
+- [Admin Panel / Demo](https://dev.clink.is/admin/theme)
+
+---
+
+### 🧩 Design System & Component Libraries
+Developed modular, accessible component libraries following Atomic Design principles and Radix UI, deployed via AWS CodeArtifact.
+
+- [Primitives Preview](https://primitives-preview.labs.roanuz.com/)
+- [Teroshop Primitives](https://ts-primitives.tero.roanuz.com/)
+- [Web Client Demo](https://ts-demo.tero.roanuz.com/product/e4bee85b-8586-ef11-ac23-000d3adddf54)
+
+---
+
+## 🛠️ Tech Stack
 
 ```txt
 Frontend:        HTML5, CSS3, SASS, Styled Components, JavaScript (ES6+), TypeScript  
