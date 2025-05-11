@@ -1,6 +1,4 @@
 # 👩‍💻 Revathy Santhanam
-
-# Who I am?
 **Frontend Engineer**
 **Full Stack Developer**
 **Software Engineer**
@@ -9,7 +7,7 @@
 
 ## 🚀 Projects
 
-# Ecommerce
+#### 🛍️ Ecommerce
 [Globus](https://globus.is/)
 [A4](https://a4.is/)
 [TL](https://tl.is/)
@@ -22,18 +20,19 @@
 [Asbjorn](https://asbjorn.is/)
 [Byggtogbuid](https://byggtogbuid.is/)
 
-# Payment Links
+
+#### 💳 Payment Links
 [Payment Link Demo](https://dev.clink.is/admin/theme)  
 
 
-# Desgin System
+#### 🧩 Desgin System
 [Primitives Preview](https://primitives-preview.labs.roanuz.com/)  
 [Teroshop Primitives](https://ts-primitives.tero.roanuz.com/)  
 [Teroshop Web Client Demo](https://ts-demo.tero.roanuz.com/product/e4bee85b-8586-ef11-ac23-000d3adddf54)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ```txt
 Frontend:        HTML5, CSS3, SASS, Styled Components, JavaScript (ES6+), TypeScript  
