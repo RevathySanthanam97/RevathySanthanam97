@@ -7,8 +7,8 @@
 
 ## 🚀 Projects
 
-### 1. Ecommerce Websites 🛍️ 
-Built high-performance eCommerce storefronts using Next.js, Magento, GraphQL, and CMS integrations.
+### 1. Ecommerce Websites through a framwork 🛍️ 
+Built high-performance eCommerce framework and developed storefronts using Next.js, Magento, GraphQL, and CMS integrations.
 
 - [Globus](https://globus.is/)
 - [A4](https://a4.is/)
@@ -32,7 +32,7 @@ Created a lightweight, configurable payment link solution like Verifone, SiminnP
 ---
 
 ### 3. Atomic Design System Library 🧩 
-Developed modular, accessible component libraries following Atomic Design principles and Radix UI, deployed via AWS CodeArtifact.
+Developed modular, monorepo accessible component libraries following Atomic Design principles and Radix UI, deployed via AWS CodeArtifact.
 
 - [Primitives Preview](https://primitives-preview.labs.roanuz.com/)
 - [Teroshop Primitives](https://ts-primitives.tero.roanuz.com/)
