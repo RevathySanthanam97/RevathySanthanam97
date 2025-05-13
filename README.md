@@ -7,7 +7,7 @@
 
 ## 🚀 Projects
 
-### 🛍️ Ecommerce Websites
+### 1. Ecommerce Websites 🛍️ 
 Built high-performance eCommerce storefronts using Next.js, Magento, GraphQL, and CMS integrations.
 
 - [Globus](https://globus.is/)
@@ -24,14 +24,14 @@ Built high-performance eCommerce storefronts using Next.js, Magento, GraphQL, an
 
 ---
 
-### 💳 Payment Link Application
-Created a lightweight, configurable payment link solution with Verifone, SiminnPay, and Netgiro integration.
+### 2. Payment Link Application 💳 
+Created a lightweight, configurable payment link solution like Verifone, SiminnPay, Netgiro, Planet Pay and more.
 
 - [Admin Panel / Demo](https://dev.clink.is/admin/theme)
 
 ---
 
-### 🧩 Design System & Component Libraries
+### 3. Atomic Design System Library 🧩 
 Developed modular, accessible component libraries following Atomic Design principles and Radix UI, deployed via AWS CodeArtifact.
 
 - [Primitives Preview](https://primitives-preview.labs.roanuz.com/)
