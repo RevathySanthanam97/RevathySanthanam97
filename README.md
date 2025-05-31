@@ -1,6 +1,7 @@
 # 👩‍💻 Revathy Santhanam  
-- **Frontend Engineer**  
+
 - **Full Stack Developer**  
+- **Frontend Engineer**  
 - **Software Engineer**
 
 ---
@@ -8,7 +9,7 @@
 ## 🚀 Projects
 
 ### 1. Ecommerce Websites through a framwork 🛍️ 
-Built high-performance eCommerce framework and developed storefronts using Next.js, Magento, GraphQL, and CMS integrations.
+Built a scalable eCommerce framework with Next.js and Magento, delivering 10+ B2B/B2C projects for 10M+ users. Integrated DatoCMS, Algolia, Klaviyo, and analytics tools to enable dynamic content, fast search, personalization, and enhanced UX features like Gift Registry.
 
 - [Globus](https://globus.is/)
 - [A4](https://a4.is/)
@@ -25,14 +26,15 @@ Built high-performance eCommerce framework and developed storefronts using Next.
 ---
 
 ### 2. Payment Link Application 💳 
-Created a lightweight, configurable payment link solution like Verifone, SiminnPay, Netgiro, Planet Pay and more.
+Created a lightweight, configurable payment link solution with multi-payment gateways Verifone, SiminnPay, Netgiro, Planet with Apple Pay, Google Pay, saved card tokenization, and device-browser detection for automated transactions.
+Developed Gen AI theming automation using OpenAI GPT-3.5 LLM for dynamic UI generation and Pillow library for image processing and visual content manipulation.
 
 - [Admin Panel / Demo](https://dev.clink.is/admin/theme)
 
 ---
 
 ### 3. Atomic Design System Library 🧩 
-Developed modular, monorepo accessible component libraries following Atomic Design principles and Radix UI, deployed via AWS CodeArtifact.
+Developed modular, monorepo accessible component libraries following Atomic Design principles and Radix UI with W3C Accessibility Standards, deployed via AWS CodeArtifact.
 
 - [Primitives Preview](https://primitives-preview.labs.roanuz.com/)
 - [Teroshop Primitives](https://ts-primitives.tero.roanuz.com/)
