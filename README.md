@@ -44,13 +44,16 @@ Developed modular, monorepo accessible component libraries following Atomic Desi
 
 ## 🛠️ Tech Stack
 
-```txt
-Frontend:        HTML5, CSS3, SASS, Styled Components, JavaScript (ES6+), TypeScript  
-Frameworks:      React.js, Next.js, React Router DOM, React Hooks, Vite  
-Bundlers:        Vite, SWC, Webpack, Monorepo (Turborepo/Nx)  
-Backend & APIs:  Node.js, Python, Apollo GraphQL, RESTful APIs, Docker, AWS CodeArtifact  
-Database & CMS:  Magento, DynamoDB, Microsoft Business Central, Algolia, DatoCMS  
-Marketing Tools: Google Analytics, GTM, Meta Analytics, Klaviyo  
-AI Integration:  OpenAI GPT-3.5 Turbo  
-Version Control: Git
-```
+Frontend: HTML5, CSS3, SASS, Styled Components, JavaScript ES6, TypeScript
+Frameworks: React JS, React TypeScript, Next.js, React Router DOM, React Hooks, Context API
+Bundling: Vite, SWC, Webpack, Monorepo, AWS Code Artifact
+Backend: Python, Node.js, Microservices, Apollo GraphQL, RESTful APIs, Docker
+AWS: DynamoDB NoSQL database, CodeArtifact, EC2, S3, Application Load Balancer, CloudWatch
+Test Cases: Cypress, Pytest
+Lint and Typing: Eslint, Pydantic, flake8, mypy
+Database: Magento, DynamoDB, Microsoft Business Central, Algolia, DatoCMS, AWS S3, CDN
+Analytics and Marketing: Google Analytics, Google Tag Manager, Meta Analytics, Klaviyo
+AI: Generative AI, OpenAI GPT-3.5 Turbo, Prompt Engineering, Image Processing
+Design: Figma, Photoshop, Indesign
+Version Control & Deployment: Git, CI/CD GitHub Actions, System Design, Nginx, PM2, Supervisor
+
