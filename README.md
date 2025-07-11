@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 
-### 1. Ecommerce Websites through a framwork 🛍️ 
+### 1. Built a Custom Framework for eCommerce Websites 🛍️ 
 Built a scalable eCommerce framework with Next.js and Magento, delivering 10+ B2B/B2C projects for 10M+ users. Integrated DatoCMS, Algolia, Klaviyo, and analytics tools to enable dynamic content, fast search, personalization, and enhanced UX features like Gift Registry.
 
 - [Globus](https://globus.is/)
